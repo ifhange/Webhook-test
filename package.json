@@ -1,0 +1,11 @@
+{
+  "name": "webhook-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anyd Li <ifhange@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security"
+  }
+}
